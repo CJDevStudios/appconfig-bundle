@@ -1,0 +1,13 @@
+{
+    "name": "cjdevstudios/appconfig-bundle",
+    "description": "A Symfony bundle for managing application configurations",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Curtis Conard",
+            "email": "cconard@cjdevstudios.com"
+        }
+    ],
+    "require": {}
+}
