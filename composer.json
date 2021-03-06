@@ -1,6 +1,6 @@
 {
     "name": "cjdevstudios/appconfig-bundle",
-    "description": "A Symfony bundle for managing application configurations",
+    "description": "A Symfony bundle providing a app/user configuration/preference system",
     "type": "library",
     "license": "MIT",
     "authors": [
