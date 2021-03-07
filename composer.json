@@ -9,5 +9,12 @@
             "email": "cconard@cjdevstudios.com"
         }
     ],
-    "require": {}
+    "require": {
+        "cjdevstudios/dev-bundle": "dev-main"
+    },
+    "autoload": {
+        "psr-4": {
+            "CJDevStudios\\AppConfigBundle\\": "src/"
+        }
+    }
 }
