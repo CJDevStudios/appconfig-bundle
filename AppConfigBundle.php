@@ -15,7 +15,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class AppConfigBundle extends Bundle {
 
-   public function getContainerExtension()
+   public function getContainerExtension(): ?ExtensionInterface
    {
       return new AppConfigExtension();
    }
